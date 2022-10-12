@@ -1,0 +1,68 @@
+[33mcommit d48ca6f17a8acc0bedc7f93a58ba6bb81ba06de9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mTimovanManen_lab5[m[33m)[m
+Author: Timo <timovanmanen@tudelft.net>
+Date:   Thu Sep 29 10:28:32 2022 +0200
+
+    added lab assignment 5 files take 2
+
+[33mcommit 6bc337c7e8c76f9a8d8d9edc277873020e4af694[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9b31fd5 28b28c0
+Author: Justin Plasmeijer <jplasmei@hhs.nl>
+Date:   Wed Sep 28 22:00:14 2022 +0200
+
+    Merge branch 'main' of https://github.com/Justin111995/TIL6022-LabAssignments
+
+[33mcommit 9b31fd59fa2956f8a29f0f42e0f1dac5a857cbaf[m
+Merge: e87f2d3 ca670d7
+Author: Justin Plasmeijer <jplasmei@hhs.nl>
+Date:   Wed Sep 28 21:53:27 2022 +0200
+
+    Merge branch 'Justin_lab5'
+
+[33mcommit ca670d7e6893cdd81f2d3e99b9aa603847033aa0[m[33m ([m[1;31morigin/Justin_lab5[m[33m)[m
+Author: Justin Plasmeijer <jplasmei@hhs.nl>
+Date:   Wed Sep 28 21:51:24 2022 +0200
+
+    README.md
+
+[33mcommit e87f2d3872d0d4232f553e6091fac7f030363870[m
+Merge: 9a14c27 58012b9
+Author: Justin Plasmeijer <jplasmei@hhs.nl>
+Date:   Wed Sep 28 21:39:42 2022 +0200
+
+    all
+
+[33mcommit 58012b9c1550fd101510436317a52faf71cbb646[m
+Author: Justin Plasmeijer <jplasmei@hhs.nl>
+Date:   Wed Sep 28 21:19:03 2022 +0200
+
+    anything
+
+[33mcommit 28b28c0ebf55c154b3dcea682df3f619526acefd[m[33m ([m[1;31morigin/Fariba_lab5[m[33m)[m
+Author: Fariba-Tavakoli <fariba.tvkl@gmail.com>
+Date:   Wed Sep 28 12:51:05 2022 +0200
+
+    update files
+
+[33mcommit 9a14c2786d0a398bdd292f55a86f295c62265e33[m
+Author: fboekhorst <F.J.Boekhorst@student.tudelft.nl>
+Date:   Wed Sep 28 11:34:53 2022 +0200
+
+    updated lab5.txt
+
+[33mcommit c20a465788b396212fc678c81f52839674f0b107[m
+Author: fboekhorst <F.J.Boekhorst@student.tudelft.nl>
+Date:   Wed Sep 28 11:14:34 2022 +0200
+
+    updated README.md
+
+[33mcommit 5ec6ac61b273327dbc31604ca417c618b33514a2[m
+Author: Justin Plasmeijer <jplasmei@hhs.nl>
+Date:   Wed Sep 28 11:12:12 2022 +0200
+
+    updated
+
+[33mcommit 9a61f5b2e3b2bdb2640e649e84e82e0070d4cc36[m
+Author: Justin111995 <89934332+Justin111995@users.noreply.github.com>
+Date:   Wed Sep 28 09:37:37 2022 +0200
+
+    Initial commit
